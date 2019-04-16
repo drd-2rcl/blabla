@@ -11,6 +11,8 @@ export default class App extends React.Component {
   }
 }
 
+// https://github.com/gatsbyjs/gatsby/issues/11406
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
